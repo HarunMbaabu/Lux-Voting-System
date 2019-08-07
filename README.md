@@ -3,7 +3,7 @@
 
 ## This is a online voting system developed in Flask and Reactjs.
 
-Have you need Reactjs and flask(python) skills.
+You need Reactjs and flask(python) skills.
 
 
 creating virtual env.
