@@ -1,8 +1,7 @@
 # Lux voting system
 
 
-## This is a online voting system developed in Flask and Reactjs 
-##live preview Heroku
+## This is a online voting system developed in Flask and Reactjs.
 
 Have you need Reactjs and flask(python) skills.
 
