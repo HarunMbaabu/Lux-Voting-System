@@ -1,34 +1,45 @@
 # Lux voting system
 
 
+## This is a online voting system developed in Flask and Reactjs 
+##live preview Heroku
+
+Have you need Reactjs and flask(python) skills.
 
 
- The table of contents lists the main topic of focus in each part, but each article also covers other topics
+creating virtual env.
 
 
+activating virtual env.
 
-## Lux voting system  in action
 
-![create a poll](/static/images/screenshot.png)
+installing python packages using pip.
 
-![votr](/static/gifs/votr.gif)
 
-## Installation
+Handling DOM.
 
+Jinja is a modern and designer-friendly templating language for Python.
+
+
+##installation or downloading repo into your system
 ```bash
-git clone  
+
+git clone https://github.com/HarunHM/Lux-Voting-System.git 
 ```
 
 Install requirements
 
 ```bash
+
 pip install -r requirements.txt
+
 ```
 
-**set the FLASK_APP and FLASK_DEBUG variables**
+##**set the FLASK_APP and FLASK_DEBUG variables**
 
 ```bash
-export FLASK_APP=votr.py
+
+export FLASK_APP=app.py
 export FLASK_DEBUG=1
 ```
 
