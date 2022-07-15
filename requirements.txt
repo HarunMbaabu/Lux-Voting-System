@@ -6,7 +6,7 @@ billiard==3.5.0.2
 blinker==1.4
 celery==4.0.0
 click==6.7
-codecov==2.0.5
+codecov==2.0.16
 coverage==4.2
 Flask==0.11.1
 Flask-Admin==1.4.2
